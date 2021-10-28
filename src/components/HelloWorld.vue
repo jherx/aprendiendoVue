@@ -23,6 +23,7 @@ export default {
 <style scoped>
 h2{
   color: blueviolet;
+  font-size: 30px;
   }
 h3 {
   margin: 40px 0 0;
