@@ -2,6 +2,7 @@
     <div>
         <h1>Mi primer componente</h1>
         <h2>{{sub}}</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam voluptatem commodi quasi, impedit dicta similique eius officiis ab quia quos esse maiores quas eveniet voluptates, fugit sequi facilis tempore! Impedit.</p>
     </div>
 </template>
 <script>
